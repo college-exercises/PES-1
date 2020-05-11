@@ -1,0 +1,7 @@
+C:\Users\aluno\Downloads\Modulo2\22\bin\Debug\22.exe.config
+C:\Users\aluno\Downloads\Modulo2\22\bin\Debug\22.exe
+C:\Users\aluno\Downloads\Modulo2\22\bin\Debug\22.pdb
+C:\Users\aluno\Downloads\Modulo2\22\obj\Debug\22.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\Modulo2\22\obj\Debug\22.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Modulo2\22\obj\Debug\22.exe
+C:\Users\aluno\Downloads\Modulo2\22\obj\Debug\22.pdb

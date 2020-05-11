@@ -1,0 +1,7 @@
+C:\Users\aluno\Downloads\Modulo2\18\bin\Debug\18.exe.config
+C:\Users\aluno\Downloads\Modulo2\18\bin\Debug\18.exe
+C:\Users\aluno\Downloads\Modulo2\18\bin\Debug\18.pdb
+C:\Users\aluno\Downloads\Modulo2\18\obj\Debug\18.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\Modulo2\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Modulo2\18\obj\Debug\18.exe
+C:\Users\aluno\Downloads\Modulo2\18\obj\Debug\18.pdb

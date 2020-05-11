@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\Modulo3\40\bin\Debug\40.exe.config
+C:\Users\aluno\Downloads\Modulo3\40\bin\Debug\40.exe
+C:\Users\aluno\Downloads\Modulo3\40\bin\Debug\40.pdb
+C:\Users\aluno\Downloads\Modulo3\40\obj\Debug\40.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Modulo3\40\obj\Debug\40.exe
+C:\Users\aluno\Downloads\Modulo3\40\obj\Debug\40.pdb
+C:\Users\aluno\Downloads\Modulo3\40\obj\Debug\40.csprojResolveAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo3\40\bin\Debug\40.exe.config
+C:\Users\angel\Downloads\Modulo3\40\bin\Debug\40.exe
+C:\Users\angel\Downloads\Modulo3\40\bin\Debug\40.pdb
+C:\Users\angel\Downloads\Modulo3\40\obj\Debug\40.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo3\40\obj\Debug\40.exe
+C:\Users\angel\Downloads\Modulo3\40\obj\Debug\40.pdb
+C:\Users\angel\Downloads\Modulo3\40\obj\Debug\40.csprojAssemblyReference.cache

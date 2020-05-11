@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\Modulo2\20\bin\Debug\20.exe.config
+C:\Users\aluno\Downloads\Modulo2\20\bin\Debug\20.exe
+C:\Users\aluno\Downloads\Modulo2\20\bin\Debug\20.pdb
+C:\Users\aluno\Downloads\Modulo2\20\obj\Debug\20.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\Modulo2\20\obj\Debug\20.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Modulo2\20\obj\Debug\20.exe
+C:\Users\aluno\Downloads\Modulo2\20\obj\Debug\20.pdb
+C:\Users\angel\Downloads\Modulo2\20\bin\Debug\20.exe.config
+C:\Users\angel\Downloads\Modulo2\20\bin\Debug\20.exe
+C:\Users\angel\Downloads\Modulo2\20\bin\Debug\20.pdb
+C:\Users\angel\Downloads\Modulo2\20\obj\Debug\20.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo2\20\obj\Debug\20.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo2\20\obj\Debug\20.exe
+C:\Users\angel\Downloads\Modulo2\20\obj\Debug\20.pdb

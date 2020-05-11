@@ -1,0 +1,14 @@
+C:\Users\angel\Downloads\Modulo3\37\bin\Debug\37.exe.config
+C:\Users\angel\Downloads\Modulo3\37\bin\Debug\37.exe
+C:\Users\angel\Downloads\Modulo3\37\bin\Debug\37.pdb
+C:\Users\angel\Downloads\Modulo3\37\obj\Debug\37.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo3\37\obj\Debug\37.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo3\37\obj\Debug\37.exe
+C:\Users\angel\Downloads\Modulo3\37\obj\Debug\37.pdb
+C:\Users\aluno\Downloads\Modulo3_doWhile\37\bin\Debug\37.exe.config
+C:\Users\aluno\Downloads\Modulo3_doWhile\37\bin\Debug\37.exe
+C:\Users\aluno\Downloads\Modulo3_doWhile\37\bin\Debug\37.pdb
+C:\Users\aluno\Downloads\Modulo3_doWhile\37\obj\Debug\37.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\Modulo3_doWhile\37\obj\Debug\37.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Modulo3_doWhile\37\obj\Debug\37.exe
+C:\Users\aluno\Downloads\Modulo3_doWhile\37\obj\Debug\37.pdb

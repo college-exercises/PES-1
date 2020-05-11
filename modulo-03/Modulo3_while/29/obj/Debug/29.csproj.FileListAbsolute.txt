@@ -1,0 +1,7 @@
+C:\Users\angel\Downloads\Modulo3\29\bin\Debug\29.exe.config
+C:\Users\angel\Downloads\Modulo3\29\bin\Debug\29.exe
+C:\Users\angel\Downloads\Modulo3\29\bin\Debug\29.pdb
+C:\Users\angel\Downloads\Modulo3\29\obj\Debug\29.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo3\29\obj\Debug\29.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo3\29\obj\Debug\29.exe
+C:\Users\angel\Downloads\Modulo3\29\obj\Debug\29.pdb

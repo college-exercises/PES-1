@@ -1,0 +1,7 @@
+C:\Users\angel\Downloads\Modulo3\zArray\bin\Debug\zArray.exe.config
+C:\Users\angel\Downloads\Modulo3\zArray\bin\Debug\zArray.exe
+C:\Users\angel\Downloads\Modulo3\zArray\bin\Debug\zArray.pdb
+C:\Users\angel\Downloads\Modulo3\zArray\obj\Debug\zArray.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo3\zArray\obj\Debug\zArray.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo3\zArray\obj\Debug\zArray.exe
+C:\Users\angel\Downloads\Modulo3\zArray\obj\Debug\zArray.pdb

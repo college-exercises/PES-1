@@ -1,0 +1,7 @@
+C:\Users\angel\Downloads\Modulo3\25\bin\Debug\25.exe.config
+C:\Users\angel\Downloads\Modulo3\25\bin\Debug\25.exe
+C:\Users\angel\Downloads\Modulo3\25\bin\Debug\25.pdb
+C:\Users\angel\Downloads\Modulo3\25\obj\Debug\25.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo3\25\obj\Debug\25.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo3\25\obj\Debug\25.exe
+C:\Users\angel\Downloads\Modulo3\25\obj\Debug\25.pdb

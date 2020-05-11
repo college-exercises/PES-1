@@ -1,0 +1,14 @@
+C:\Users\angel\Downloads\new\Modulo4\63\obj\Debug\63.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\new\Modulo4\63\obj\Debug\63.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\new\Modulo4\63\bin\Debug\63.exe.config
+C:\Users\angel\Downloads\new\Modulo4\63\bin\Debug\63.exe
+C:\Users\angel\Downloads\new\Modulo4\63\bin\Debug\63.pdb
+C:\Users\angel\Downloads\new\Modulo4\63\obj\Debug\63.exe
+C:\Users\angel\Downloads\new\Modulo4\63\obj\Debug\63.pdb
+C:\Users\angel\Downloads\Modulo4\63\bin\Debug\63.exe.config
+C:\Users\angel\Downloads\Modulo4\63\bin\Debug\63.exe
+C:\Users\angel\Downloads\Modulo4\63\bin\Debug\63.pdb
+C:\Users\angel\Downloads\Modulo4\63\obj\Debug\63.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo4\63\obj\Debug\63.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo4\63\obj\Debug\63.exe
+C:\Users\angel\Downloads\Modulo4\63\obj\Debug\63.pdb

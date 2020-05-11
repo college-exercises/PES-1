@@ -1,0 +1,6 @@
+C:\Users\aluno\Downloads\Modulo2\14\bin\Debug\14.exe.config
+C:\Users\aluno\Downloads\Modulo2\14\bin\Debug\14.exe
+C:\Users\aluno\Downloads\Modulo2\14\bin\Debug\14.pdb
+C:\Users\aluno\Downloads\Modulo2\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Modulo2\14\obj\Debug\14.exe
+C:\Users\aluno\Downloads\Modulo2\14\obj\Debug\14.pdb

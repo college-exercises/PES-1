@@ -1,0 +1,6 @@
+C:\Users\aluno\Downloads\Modulo2\19\bin\Debug\19.exe.config
+C:\Users\aluno\Downloads\Modulo2\19\bin\Debug\19.exe
+C:\Users\aluno\Downloads\Modulo2\19\bin\Debug\19.pdb
+C:\Users\aluno\Downloads\Modulo2\19\obj\Debug\19.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Modulo2\19\obj\Debug\19.exe
+C:\Users\aluno\Downloads\Modulo2\19\obj\Debug\19.pdb

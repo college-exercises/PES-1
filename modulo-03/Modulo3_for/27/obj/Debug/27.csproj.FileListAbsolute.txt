@@ -1,0 +1,14 @@
+C:\Users\angel\Downloads\Modulo3\27\bin\Debug\27.exe.config
+C:\Users\angel\Downloads\Modulo3\27\bin\Debug\27.exe
+C:\Users\angel\Downloads\Modulo3\27\bin\Debug\27.pdb
+C:\Users\angel\Downloads\Modulo3\27\obj\Debug\27.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo3\27\obj\Debug\27.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo3\27\obj\Debug\27.exe
+C:\Users\angel\Downloads\Modulo3\27\obj\Debug\27.pdb
+C:\Users\aluno\Downloads\Modulo3_for\27\bin\Debug\27.exe.config
+C:\Users\aluno\Downloads\Modulo3_for\27\bin\Debug\27.exe
+C:\Users\aluno\Downloads\Modulo3_for\27\bin\Debug\27.pdb
+C:\Users\aluno\Downloads\Modulo3_for\27\obj\Debug\27.csprojAssemblyReference.cache
+C:\Users\aluno\Downloads\Modulo3_for\27\obj\Debug\27.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Modulo3_for\27\obj\Debug\27.exe
+C:\Users\aluno\Downloads\Modulo3_for\27\obj\Debug\27.pdb

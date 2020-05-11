@@ -1,0 +1,7 @@
+C:\Users\angel\Downloads\Modulo2\08\bin\Debug\08.exe.config
+C:\Users\angel\Downloads\Modulo2\08\bin\Debug\08.exe
+C:\Users\angel\Downloads\Modulo2\08\bin\Debug\08.pdb
+C:\Users\angel\Downloads\Modulo2\08\obj\Debug\08.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo2\08\obj\Debug\08.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo2\08\obj\Debug\08.exe
+C:\Users\angel\Downloads\Modulo2\08\obj\Debug\08.pdb

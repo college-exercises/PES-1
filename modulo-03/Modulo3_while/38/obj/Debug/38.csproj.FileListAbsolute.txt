@@ -1,0 +1,7 @@
+C:\Users\angel\Downloads\Modulo3\38\bin\Debug\38.exe.config
+C:\Users\angel\Downloads\Modulo3\38\bin\Debug\38.exe
+C:\Users\angel\Downloads\Modulo3\38\bin\Debug\38.pdb
+C:\Users\angel\Downloads\Modulo3\38\obj\Debug\38.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo3\38\obj\Debug\38.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo3\38\obj\Debug\38.exe
+C:\Users\angel\Downloads\Modulo3\38\obj\Debug\38.pdb

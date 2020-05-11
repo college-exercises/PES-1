@@ -1,0 +1,10 @@
+C:\Users\angel\Downloads\Modulo3\23\bin\Debug\23.exe.config
+C:\Users\angel\Downloads\Modulo3\23\bin\Debug\23.exe
+C:\Users\angel\Downloads\Modulo3\23\bin\Debug\23.pdb
+C:\Users\angel\Downloads\Modulo3\23\obj\Debug\23.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Modulo3\23\obj\Debug\23.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\Modulo3\23\obj\Debug\23.exe
+C:\Users\angel\Downloads\Modulo3\23\obj\Debug\23.pdb
+C:\Users\aluno\Downloads\Modulo3\23\bin\Debug\23.exe.config
+C:\Users\aluno\Downloads\Modulo3\23\obj\Debug\23.exe
+C:\Users\aluno\Downloads\Modulo3\23\obj\Debug\23.pdb
